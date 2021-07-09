@@ -24,5 +24,3 @@ Bem-vindo ao meu projeto feito durante minha participação no bootcamp de html 
   
 
 
-  ​					**Em breve será atualizado a responsividade para smartphones. No momento responde a monitores, ipads e tablets.**
-
