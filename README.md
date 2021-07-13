@@ -16,13 +16,4 @@ Bem-vindo ao meu projeto feito durante minha participação no bootcamp de html 
 
 
 
-  
-
-![bootstrap](https://user-images.githubusercontent.com/55301440/125134093-3b2aff80-e0dd-11eb-88ad-f29ce6819e5a.png)
-
-
-  
-![bootmeio](https://user-images.githubusercontent.com/55301440/125134685-21d68300-e0de-11eb-82ef-c8e0b3f56181.png)
-
-
-![bootend](https://user-images.githubusercontent.com/55301440/125134690-256a0a00-e0de-11eb-8eb0-6844ef06d577.png)
+  ![desktop-bootstrap](https://user-images.githubusercontent.com/55301440/125478922-78ce01bf-4c60-46bc-b120-9f6b774863cf.gif)
